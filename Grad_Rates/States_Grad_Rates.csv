@@ -1,0 +1,52 @@
+state_abbr,state,grad_150_rate,grad_100_rate
+DE,Delaware,73.6,59.3
+VA,Virginia,70.5,51.6
+NH,New Hampshire,70.1,55.3
+IA,Iowa,68.4,41.5
+WA,Washington,68.1,44.1
+NJ,New Jersey,67.2,42.2
+VT,Vermont,65.3,52.5
+FL,Florida,64.4,38.7
+CA,California,64,33.6
+CT,Connecticut,63.4,40.8
+PA,Pennsylvania,62.9,41.6
+MI,Michigan,62,34.3
+IL,Illinois,61.8,40
+NC,North Carolina,61.2,37.5
+MD,Maryland,60.8,39.9
+SC,South Carolina,60.6,41.7
+WI,Wisconsin,59.3,28.7
+NY,New York,59.2,38.7
+MN,Minnesota,58.6,34.2
+AZ,Arizona,58.4,37.2
+MA,Massachusetts,58.3,38.2
+RI,Rhode Island,58,34.1
+NE,Nebraska,56.2,25.7
+OR,Oregon,55.5,30.3
+IN,Indiana,55.2,32.6
+MO,Missouri,55.2,32.3
+KS,Kansas,54.6,27.6
+OH,Ohio,54.6,31.9
+GA,Georgia,54.5,27.6
+WY,Wyoming,54.1,24.1
+CO,Colorado,53.6,30.3
+HI,Hawaii,51.8,16.3
+TX,Texas,51.7,27.6
+SD,South Dakota,50.5,23.8
+ND,North Dakota,50.3,23.3
+MS,Mississippi,49.8,26.4
+AL,Alabama,49.5,25.9
+KY,Kentucky,48.9,24.2
+TN,Tennessee,47.9,20.8
+ME,Maine,47.8,28.3
+UT,Utah,47.1,20.6
+OK,Oklahoma,46.2,22.8
+NV,Nevada,45.8,14.9
+MT,Montana,45.6,20.7
+WV,West Virginia,45.6,24.7
+LA,Louisiana,44.7,20.2
+NM,New Mexico,41.7,14.4
+ID,Idaho,41.4,15.7
+AR,Arkansas,39.7,20.6
+AK,Alaska,30.6,10.4
+DC,District of Columbia,16.4,5.7
