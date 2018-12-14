@@ -75,8 +75,8 @@ p1 <- plot_ly(data = df_plotly2,
 p 
 p1
 #Set plotly API information
-Sys.setenv("plotly_username"="RAJohansen")
-Sys.setenv("plotly_api_key"="OkJPXLleytoFqrshkmrB")
+Sys.setenv("plotly_username"="")
+Sys.setenv("plotly_api_key"="")
 
 #Send plot to https://plot.ly/~RAJohansen/
 api_create(p1)
